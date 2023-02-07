@@ -1,0 +1,11 @@
+Username: libriperera
+Password: Dbmoduloa1
+
+
+Accedi
+
+Login via FTP
+Server: ftp.libriperera.altervista.org
+Username: libriperera
+Password: YzrbupzMx2Qx
+Tipo di connessione: PASV (modalità passiva)
